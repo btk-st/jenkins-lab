@@ -1,0 +1,8 @@
+# Temporary files
+*.~
+# Gradle files
+/.gradle
+# Build files
+/build
+# Idea settings
+/.idea
